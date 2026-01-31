@@ -10,7 +10,7 @@ class Program
         string FullName = "Jarrone Joshua R. Aragon";
         string nickName = "Jay";
         string gender = "Male";
-        string yearLevel = "2nd Year"; // Added missing semicolon
+        string yearLevel = "2nd Year"; 
         string homeLocation = "697-L Visitacion Street Jones Avenue";
         string course = "Bachelor of Science in Computer Studies";
         string mobileNo = "09087043244";
