@@ -1,0 +1,29 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Demographics Program by Jarrone Joshua R. Aragon");
+
+        string StudentID = "22699748";
+        string FullName = "Jarrone Joshua R. Aragon";
+        string nickName = "Jay";
+        string gender = "Male";
+        string yearLevel = "2nd Year"; // Added missing semicolon
+        string homeLocation = "697-L Visitacion Street Jones Avenue";
+        string course = "Bachelor of Science in Computer Studies";
+        string mobileNo = "09087043244";
+        string personalEmail = "aragonjarrone@gmail.com"; // Fixed spelling
+
+        Console.WriteLine("Student ID     : " + StudentID); // Corrected variable name
+        Console.WriteLine("Full Name      : " + FullName); // Corrected variable name
+        Console.WriteLine("Nick Name      : " + nickName);
+        Console.WriteLine("Gender         : " + gender);
+        Console.WriteLine("Year Level     : " + yearLevel);
+        Console.WriteLine("Home Location  : " + homeLocation);
+        Console.WriteLine("Course         : " + course);
+        Console.WriteLine("Mobile No.     : " + mobileNo);
+        Console.WriteLine("Personal Email : " + personalEmail); // Fixed spelling
+    }
+}
