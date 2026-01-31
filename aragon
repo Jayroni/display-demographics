@@ -14,16 +14,17 @@ class Program
         string homeLocation = "697-L Visitacion Street Jones Avenue";
         string course = "Bachelor of Science in Computer Studies";
         string mobileNo = "09087043244";
-        string personalEmail = "aragonjarrone@gmail.com"; // Fixed spelling
+        string personalEmail = "aragonjarrone@gmail.com";
 
-        Console.WriteLine("Student ID     : " + StudentID); // Corrected variable name
-        Console.WriteLine("Full Name      : " + FullName); // Corrected variable name
+        Console.WriteLine("Student ID     : " + StudentID); 
+        Console.WriteLine("Full Name      : " + FullName); 
         Console.WriteLine("Nick Name      : " + nickName);
         Console.WriteLine("Gender         : " + gender);
         Console.WriteLine("Year Level     : " + yearLevel);
         Console.WriteLine("Home Location  : " + homeLocation);
         Console.WriteLine("Course         : " + course);
         Console.WriteLine("Mobile No.     : " + mobileNo);
-        Console.WriteLine("Personal Email : " + personalEmail); // Fixed spelling
+        Console.WriteLine("Personal Email : " + personalEmail); 
     }
 }
+
